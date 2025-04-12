@@ -1,0 +1,14 @@
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\bin\Debug\net8.0\FinancialTracker.exe
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\bin\Debug\net8.0\FinancialTracker.deps.json
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\bin\Debug\net8.0\FinancialTracker.runtimeconfig.json
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\bin\Debug\net8.0\FinancialTracker.dll
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\bin\Debug\net8.0\FinancialTracker.pdb
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\obj\Debug\net8.0\FinancialTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\obj\Debug\net8.0\FinancialTracker.AssemblyInfoInputs.cache
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\obj\Debug\net8.0\FinancialTracker.AssemblyInfo.cs
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\obj\Debug\net8.0\FinancialTracker.csproj.CoreCompileInputs.cache
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\obj\Debug\net8.0\FinancialTracker.dll
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\obj\Debug\net8.0\refint\FinancialTracker.dll
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\obj\Debug\net8.0\FinancialTracker.pdb
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\obj\Debug\net8.0\FinancialTracker.genruntimeconfig.cache
+C:\Users\Bob Joshua Ungod\source\repos\FinancialTracker\FinancialTracker\obj\Debug\net8.0\ref\FinancialTracker.dll
